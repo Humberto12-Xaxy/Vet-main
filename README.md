@@ -1,11 +1,11 @@
 # Vet-main
 
-#Tablero Jira
+# Tablero Jira
 https://mantenimiento01.atlassian.net/jira/software/projects/VET/boards/1
 
-#Integrantes
+# Integrantes
 
-## Humberto Suriano Medina
-## Daniel Sanchez Robles
-## Gabriel Omar Cabrera Ramirez
-## Rodrigo Rodriguez Ruiz
+ Humberto Suriano Medina
+ Daniel Sanchez Robles
+ Gabriel Omar Cabrera Ramirez
+ Rodrigo Rodriguez Ruiz
